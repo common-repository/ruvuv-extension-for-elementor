@@ -1,0 +1,23 @@
+.eg-hidden {
+	display: none !important;
+}
+@media (min-width: 640px) {
+  .eg-hidden\@s {
+    display: none !important;
+  }
+}
+@media (min-width: 960px) {
+  .eg-hidden\@m {
+    display: none !important;
+  }
+}
+@media (min-width: 1200px) {
+  .eg-hidden\@l {
+    display: none !important;
+  }
+}
+@media (min-width: 1600px) {
+  .eg-hidden\@xl {
+    display: none !important;
+  }
+}

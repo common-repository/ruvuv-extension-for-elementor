@@ -1,0 +1,618 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Ruvuv Extension For Elementor\n"
+"POT-Creation-Date: 2019-10-17 00:28+0600\n"
+"PO-Revision-Date: 2019-10-17 00:28+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ruvuv-extension.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: base/module-base.php:35 base/module-base.php:46
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/admin-settings.php:149
+msgid "Ruvuv Extension for Elementor"
+msgstr ""
+
+#: includes/admin-settings.php:154 includes/admin-settings.php:273
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin-settings.php:157 modules/image-moving/module.php:43
+msgid "Background Image Moving"
+msgstr ""
+
+#: includes/admin-settings.php:166
+#: modules/background-color-changing/module.php:43
+msgid "Multi Color Motion"
+msgstr ""
+
+#: includes/admin-settings.php:175 modules/media-slider/module.php:43
+msgid "Background Media Slider"
+msgstr ""
+
+#: includes/admin-settings.php:183 modules/column-order/module.php:43
+msgid "Responsive Column Order"
+msgstr ""
+
+#: includes/admin-settings.php:192
+msgid "Section/Column Link"
+msgstr ""
+
+#: includes/admin-settings.php:201 modules/max-width/module.php:43
+msgid "Widget Max Width"
+msgstr ""
+
+#: includes/admin-settings.php:210 modules/heading/module.php:43
+msgid "Heading Expand"
+msgstr ""
+
+#: includes/admin-settings.php:219
+msgid "Relax Parallax"
+msgstr ""
+
+#: includes/admin-settings.php:228 modules/particle/module.php:43
+msgid "Background Particle"
+msgstr ""
+
+#: includes/admin-settings.php:237 modules/sticky/module.php:43
+#: modules/sticky/module.php:51 modules/sticky/module.php:167
+#: modules/sticky/module.php:175
+msgid "Sticky"
+msgstr ""
+
+#: includes/admin-settings.php:246 modules/tooltip/module.php:43
+msgid "Tooltip"
+msgstr ""
+
+#: includes/admin-settings.php:255
+msgid "Content Schedule"
+msgstr ""
+
+#: includes/admin-settings.php:264 modules/customcss/module.php:53
+msgid "Custom CSS"
+msgstr ""
+
+#: modules/background-color-changing/module.php:51
+#: modules/heading/module.php:51 modules/media-slider/module.php:51
+#: modules/particle/module.php:51 modules/relax-parallax/module.php:51
+#: modules/schedule/module.php:51 modules/tooltip/module.php:51
+msgid "Enable"
+msgstr ""
+
+#: modules/background-color-changing/module.php:62
+msgid "Angle"
+msgstr ""
+
+#: modules/background-color-changing/module.php:87
+msgid "Animation Time"
+msgstr ""
+
+#: modules/background-color-changing/module.php:112
+msgid "Colors"
+msgstr ""
+
+#: modules/background-color-changing/module.php:122
+msgid "Color"
+msgstr ""
+
+#: modules/customcss/module.php:61
+msgid "Add your own custom CSS here"
+msgstr ""
+
+#: modules/customcss/module.php:70
+msgid "Major Custom CSS"
+msgstr ""
+
+#: modules/customcss/module.php:81
+msgid ""
+"Use \"selector\" to target wrapper element. Examples:<br>selector {color: "
+"red;} // For main element<br>selector .child-element {margin: 10px;} // For "
+"child element<br>.my-class {text-align: center;} // Or use any custom "
+"selector"
+msgstr ""
+
+#: modules/heading/module.php:64
+msgid "Background"
+msgstr ""
+
+#: modules/heading/module.php:76
+msgid "Title Color"
+msgstr ""
+
+#: modules/heading/module.php:93
+msgid "Rotate"
+msgstr ""
+
+#: modules/image-moving/module.php:47
+msgid "Enable this option to move background image."
+msgstr ""
+
+#: modules/image-moving/module.php:59
+msgid "Moving Image On"
+msgstr ""
+
+#: modules/image-moving/module.php:66 modules/sticky/module.php:72
+#: modules/sticky/module.php:195
+msgid "Desktop"
+msgstr ""
+
+#: modules/image-moving/module.php:67 modules/sticky/module.php:73
+#: modules/sticky/module.php:196
+msgid "Tablet"
+msgstr ""
+
+#: modules/image-moving/module.php:68 modules/sticky/module.php:74
+#: modules/sticky/module.php:197
+msgid "Mobile"
+msgstr ""
+
+#: modules/image-moving/module.php:79
+msgid "Direction Type"
+msgstr ""
+
+#: modules/image-moving/module.php:82
+msgid "Horizontal"
+msgstr ""
+
+#: modules/image-moving/module.php:83
+msgid "Vertical"
+msgstr ""
+
+#: modules/image-moving/module.php:84
+msgid "Diagonal"
+msgstr ""
+
+#: modules/image-moving/module.php:97 modules/image-moving/module.php:134
+#: modules/image-moving/module.php:171
+msgid "Moving Type"
+msgstr ""
+
+#: modules/image-moving/module.php:100
+msgid "Left To Right"
+msgstr ""
+
+#: modules/image-moving/module.php:101
+msgid "Right To Left"
+msgstr ""
+
+#: modules/image-moving/module.php:115 modules/image-moving/module.php:152
+msgid "Image Position"
+msgstr ""
+
+#: modules/image-moving/module.php:118 modules/sticky/module.php:55
+#: modules/tooltip/module.php:78
+msgid "Top"
+msgstr ""
+
+#: modules/image-moving/module.php:119
+msgid "Middle"
+msgstr ""
+
+#: modules/image-moving/module.php:120 modules/sticky/module.php:56
+#: modules/tooltip/module.php:79
+msgid "Bottom"
+msgstr ""
+
+#: modules/image-moving/module.php:137
+msgid "Top To Bottom"
+msgstr ""
+
+#: modules/image-moving/module.php:138
+msgid "Bottom To Top"
+msgstr ""
+
+#: modules/image-moving/module.php:155 modules/max-width/module.php:93
+#: modules/tooltip/module.php:80 modules/tooltip/module.php:256
+msgid "Left"
+msgstr ""
+
+#: modules/image-moving/module.php:156 modules/max-width/module.php:97
+#: modules/tooltip/module.php:260
+msgid "Center"
+msgstr ""
+
+#: modules/image-moving/module.php:157 modules/max-width/module.php:101
+#: modules/tooltip/module.php:81 modules/tooltip/module.php:264
+msgid "Right"
+msgstr ""
+
+#: modules/image-moving/module.php:174
+msgid "Left-Top To Right-Bottom"
+msgstr ""
+
+#: modules/image-moving/module.php:175
+msgid "Right-Bottom To Left-Top"
+msgstr ""
+
+#: modules/image-moving/module.php:189
+msgid "Reverse"
+msgstr ""
+
+#: modules/image-moving/module.php:204
+msgid "Moving Speed"
+msgstr ""
+
+#: modules/max-width/module.php:51
+msgid "Max Width"
+msgstr ""
+
+#: modules/max-width/module.php:88
+msgid "Center Align Element"
+msgstr ""
+
+#: modules/media-slider/module.php:64
+msgid "Slider Items"
+msgstr ""
+
+#: modules/media-slider/module.php:73
+msgid "Select Media Resource"
+msgstr ""
+
+#: modules/media-slider/module.php:76
+msgid "Select From Media"
+msgstr ""
+
+#: modules/media-slider/module.php:77
+msgid "Use Link"
+msgstr ""
+
+#: modules/media-slider/module.php:84
+msgid "Select Media"
+msgstr ""
+
+#: modules/media-slider/module.php:93
+msgid "Media URL"
+msgstr ""
+
+#: modules/media-slider/module.php:103
+msgid "Alternative Text"
+msgstr ""
+
+#: modules/media-slider/module.php:114
+msgid "Duration"
+msgstr ""
+
+#: modules/media-slider/module.php:139
+msgid "Transition Type"
+msgstr ""
+
+#: modules/media-slider/module.php:142 modules/tooltip/module.php:130
+msgid "Fade"
+msgstr ""
+
+#: modules/media-slider/module.php:143
+msgid "Fade In Out"
+msgstr ""
+
+#: modules/media-slider/module.php:144
+msgid "Push Left"
+msgstr ""
+
+#: modules/media-slider/module.php:145
+msgid "Push Up"
+msgstr ""
+
+#: modules/media-slider/module.php:146
+msgid "Push Down"
+msgstr ""
+
+#: modules/media-slider/module.php:147
+msgid "Cover Left"
+msgstr ""
+
+#: modules/media-slider/module.php:148
+msgid "Cover Right"
+msgstr ""
+
+#: modules/media-slider/module.php:149
+msgid "Cover Up"
+msgstr ""
+
+#: modules/media-slider/module.php:150
+msgid "Cover Down"
+msgstr ""
+
+#: modules/media-slider/module.php:164
+msgid "Transition Duration"
+msgstr ""
+
+#: modules/particle/module.php:56
+msgid "Switch on to enable Particles options!"
+msgstr ""
+
+#: modules/particle/module.php:63
+msgid "Select Style"
+msgstr ""
+
+#: modules/particle/module.php:66
+msgid "Custom"
+msgstr ""
+
+#: modules/particle/module.php:67
+msgid "Style One"
+msgstr ""
+
+#: modules/particle/module.php:68
+msgid "Style Two"
+msgstr ""
+
+#: modules/particle/module.php:69
+msgid "Style Three"
+msgstr ""
+
+#: modules/particle/module.php:70
+msgid "Style Four"
+msgstr ""
+
+#: modules/particle/module.php:71
+msgid "Style Five"
+msgstr ""
+
+#: modules/particle/module.php:72
+msgid "Style Six"
+msgstr ""
+
+#: modules/particle/module.php:85
+msgid "Particles JSON"
+msgstr ""
+
+#: modules/particle/module.php:91
+msgid ""
+"Paste your particles JSON code here - Generate it from <a href=\"http://"
+"vincentgarreau.com/particles.js/#default\" target=\"_blank\">Here</a>."
+msgstr ""
+
+#: modules/particle/module.php:100 modules/relax-parallax/module.php:113
+#: modules/sticky/module.php:121 modules/tooltip/module.php:176
+msgid "Z-Index"
+msgstr ""
+
+#: modules/relax-parallax/module.php:43
+msgid "Rellax Parallax"
+msgstr ""
+
+#: modules/relax-parallax/module.php:63
+msgid "Speed"
+msgstr ""
+
+#: modules/relax-parallax/module.php:88
+msgid "Percentage"
+msgstr ""
+
+#: modules/schedule/module.php:43
+msgid "Schedule"
+msgstr ""
+
+#: modules/schedule/module.php:55
+msgid "Switch on to schedule the contents."
+msgstr ""
+
+#: modules/schedule/module.php:62
+msgid "Start Date"
+msgstr ""
+
+#: modules/schedule/module.php:68
+msgid "Set start date."
+msgstr ""
+
+#: modules/schedule/module.php:75
+msgid "End Date"
+msgstr ""
+
+#: modules/schedule/module.php:81
+msgid "Set end date."
+msgstr ""
+
+#: modules/section-link/module.php:46
+msgid "Column Link"
+msgstr ""
+
+#: modules/section-link/module.php:48 modules/section-link/module.php:61
+msgid ""
+"Note that it is not visible in edit/preview mode & can only be viewed on the "
+"frontend."
+msgstr ""
+
+#: modules/section-link/module.php:59
+msgid "Section Link"
+msgstr ""
+
+#: modules/sticky/module.php:54
+msgid "None"
+msgstr ""
+
+#: modules/sticky/module.php:66 modules/sticky/module.php:186
+msgid "Sticky On"
+msgstr ""
+
+#: modules/sticky/module.php:87 modules/tooltip/module.php:144
+msgid "Offset"
+msgstr ""
+
+#: modules/sticky/module.php:104
+msgid "Effects Offset"
+msgstr ""
+
+#: modules/sticky/module.php:149
+msgid "Stay In Column"
+msgstr ""
+
+#: modules/sticky/module.php:210
+msgid "Top Offset"
+msgstr ""
+
+#: modules/sticky/module.php:227
+msgid "Bottom Offset"
+msgstr ""
+
+#: modules/tooltip/module.php:65
+msgid "Settings"
+msgstr ""
+
+#: modules/tooltip/module.php:75
+msgid "Position"
+msgstr ""
+
+#: modules/tooltip/module.php:94
+msgid "Description"
+msgstr ""
+
+#: modules/tooltip/module.php:107
+msgid "Trigger"
+msgstr ""
+
+#: modules/tooltip/module.php:110
+msgid "Mouse Enter"
+msgstr ""
+
+#: modules/tooltip/module.php:111
+msgid "Click"
+msgstr ""
+
+#: modules/tooltip/module.php:124
+msgid "Animation"
+msgstr ""
+
+#: modules/tooltip/module.php:128
+msgid "Shift-Away"
+msgstr ""
+
+#: modules/tooltip/module.php:129
+msgid "Shift-Toward"
+msgstr ""
+
+#: modules/tooltip/module.php:131
+msgid "Scale"
+msgstr ""
+
+#: modules/tooltip/module.php:132
+msgid "Perspective"
+msgstr ""
+
+#: modules/tooltip/module.php:160
+msgid "Distance"
+msgstr ""
+
+#: modules/tooltip/module.php:194
+msgid "Style"
+msgstr ""
+
+#: modules/tooltip/module.php:204
+msgid "Width"
+msgstr ""
+
+#: modules/tooltip/module.php:237
+msgid "Text Color"
+msgstr ""
+
+#: modules/tooltip/module.php:251
+msgid "Text Alignment"
+msgstr ""
+
+#: modules/tooltip/module.php:291
+msgid "Overlay Color"
+msgstr ""
+
+#: modules/tooltip/module.php:305
+msgid "Arrow Color"
+msgstr ""
+
+#: modules/tooltip/module.php:322
+msgid "Padding"
+msgstr ""
+
+#: modules/tooltip/module.php:339
+msgid "Border"
+msgstr ""
+
+#: modules/tooltip/module.php:352
+msgid "Border Radius"
+msgstr ""
+
+#: ruvuv-extension.php:84
+msgid ""
+"Ruvuv Elementor Expand not working because you need to activate the "
+"Elementor plugin."
+msgstr ""
+
+#: ruvuv-extension.php:85
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: ruvuv-extension.php:93
+msgid ""
+"Ruvuv Elementor Expand not working because you need to install the Elementor "
+"plugin"
+msgstr ""
+
+#: ruvuv-extension.php:94
+msgid "Install Elementor Now"
+msgstr ""
+
+#: ruvuv-extension.php:120
+msgid ""
+"Ruvuv Elementor Expand not working because you are using an old version of "
+"Elementor."
+msgstr ""
+
+#: ruvuv-extension.php:121
+msgid "Update Elementor Now"
+msgstr ""
+
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: ruvuv-extension.php:143
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: ruvuv-extension.php:144
+msgid "Dial Elementor Extension"
+msgstr ""
+
+#: ruvuv-extension.php:145
+msgid "PHP"
+msgstr ""
+
+#: ruvuv-extension.php:165
+msgid "View Ruvuv Elementor Expand Documentation"
+msgstr ""
+
+#: ruvuv-extension.php:165
+msgid "Documentation"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ruvuv Extension For Elementor"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://elementorextension.ruvuv.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Extended Visual Functionality Add-on for Elementor Page Builder."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ruvuv"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://ruvuv.com/"
+msgstr ""
